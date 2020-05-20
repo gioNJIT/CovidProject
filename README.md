@@ -1,5 +1,6 @@
 # CovidProject
 
+THE PYTHON PARSER MAY NEED SLIGHT ADJUSTMENTS IF YOU ARE USING DIFFERENT LINKS OR IF THE CURRENT LINKS HAVE CHANGED HTML CODE.
 
 Stats.sh will open sources.txt and download the html files.
 
